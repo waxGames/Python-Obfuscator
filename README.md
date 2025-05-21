@@ -1,7 +1,7 @@
 # Python-Obfuscator
 Python-Obfuscator🔁
 
-![original](https://raw.githubusercontent.com/waxGames/Python-Obfuscator/refs/heads/main/original.txt)
+original.txt
 
 ![icon](https://raw.githubusercontent.com/waxGames/Python-Obfuscator/refs/heads/main/icon.png)
 
