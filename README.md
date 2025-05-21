@@ -1,8 +1,6 @@
 # Python-Obfuscator
 Python-Obfuscator🔁
 
-original.txt
-
 ![icon](https://raw.githubusercontent.com/waxGames/Python-Obfuscator/refs/heads/main/icon.png)
 
 The app was not made by us. However, we have made minor additions and updates.
